@@ -71,7 +71,7 @@ BookBridge/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BookBridge.git
+git clone https://github.com/Manjulakkundi/BookBridge.git
 cd BookBridge
 ```
 
